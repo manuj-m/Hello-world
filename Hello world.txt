@@ -1,5 +1,5 @@
 Welcome to RISE by Digital BCG
 
-Enter your name:
+Enter your name: Harold
 
-Enter a message:
+Enter a message: Hi Manuj, I'm loving Git so far!!
